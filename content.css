@@ -1,0 +1,4 @@
+/* 
+  Most styles are injected via Shadow DOM in content.js to avoid conflicts with page styles.
+  This file can be used for global overrides if absolutely necessary, but keeping it empty/minimal is safer.
+*/
